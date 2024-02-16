@@ -9,3 +9,9 @@
     --botao-inativo:rgba(97, 62, 77, 0.5);
     --botao-ativo:rgba(97, 62, 77, 0.25);
 }
+
+body{
+    background-color: var(--roxo);
+    color: var(--branco);
+    font-family: 'Chakra Petch', 'Sans-Serif';
+}
