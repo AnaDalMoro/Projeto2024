@@ -38,7 +38,7 @@ body{
 
 .botao{
     font-family: 'Chakra Petch', Sans-Serif;
-    background-color: var(--botao-ativo);
+    background-color: var(--roxo);
     color: var(--branco);
     display: flex;
     justify-content: center;
