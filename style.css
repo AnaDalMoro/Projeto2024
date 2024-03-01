@@ -4,6 +4,7 @@
     --branco: #FFFFFF;
     --roxo:#613E4D;
     --rosa:#DB518D;
+    --rosinha:#F0D1F0;
     --amarelo: #DBB251;
     --verde: #88DB9E;
     --botao-inativo:rgba(97, 62, 77, 0.5);
@@ -11,7 +12,7 @@
 }
 
 body{
-    background-color: var(--roxo);
+    background-color: var(--rosinha);
     color: var(--branco);
     font-family: 'Chakra Petch', 'Sans-Serif';
 }
