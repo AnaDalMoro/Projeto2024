@@ -50,6 +50,11 @@ body{
     border-right: 2px solid var(--rosa);
     border-top: none;
 }
+
 .botao:first-child{
+    border-radius: 40px 0 0 0;
+}
+
+.botao:last-child{
     border-radius: 40px 0 0 0;
 }
