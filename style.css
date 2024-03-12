@@ -60,7 +60,7 @@ body{
 }
 
 .ativo{
-    background-color: var(--botao-inativo);
+    background-color: var(--rosa);
     border-bottom: 4px solid var(--roxo)
 }
 
