@@ -17,9 +17,10 @@ const tempoObjetivo1 = new Date("2024-11-27T23:59:59");
 const tempoObjetivo2 = new Date("2024-12-31T23:59:59");
 const tempoObjetivo3 = new Date("2024-12-13T23:59:59");
 const tempoObjetivo4 = new Date("2024-12-14T23:59:59");
+const tempoObjetivo5 = new Date("2024-11-27T23:59:59");
 
 const tempos = [
-    tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4
+    tempoObjetivo1, tempoObjetivo2, tempoObjetivo3, tempoObjetivo4, tempoObjetivo5
 ]
 
 for(let i=0; i< contadores.length; i++){
